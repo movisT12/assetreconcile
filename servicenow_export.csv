@@ -1,0 +1,21 @@
+asset_tag,serial_number,asset_name,assigned_to,status,location,department
+ASSET-001,SN100001,Dell Laptop 15,John Smith,Active,Floor 3,IT
+ASSET-002,SN100002,HP Monitor 24,Jane Doe,Active,Floor 5,HR
+ASSET-003,SN100003,Cisco Switch 24P,,Retired,Server Room,IT
+ASSET-004,SN100004,Lenovo ThinkPad,Mike Johnson,Active,Floor 2,Finance
+ASSET-005,SN100005,Dell Desktop,Sarah Lee,Active,Floor 1,IT
+ASSET-006,SN100006,HP LaserJet Pro,,Active,Floor 3,Admin
+ASSET-007,SN100007,MacBook Pro 14,Tom Brown,Active,Floor 4,Design
+ASSET-008,SN100008,Cisco Router,,Active,Server Room,IT
+ASSET-009,SN100009,Dell Monitor 27,Emily Clark,Active,Floor 2,Finance
+ASSET-010,SN100010,Logitech Webcam,David Kim,Active,Floor 5,HR
+ASSET-011,SN100011,Surface Pro 9,Linda White,Active,Floor 1,Legal
+ASSET-012,SN100012,HP EliteBook,James Hall,Retired,Floor 3,IT
+ASSET-013,SN100013,Poly Headset,Anna Scott,Active,Floor 4,Design
+ASSET-014,SN100014,Dell PowerEdge,,Active,Server Room,IT
+ASSET-015,SN100015,iPad Pro 12,Chris Martin,Active,Floor 2,Sales
+ASSET-016,SN100016,Zebra Scanner,Mark Davis,Active,Floor 1,Warehouse
+ASSET-017,SN100017,UPS Battery 1500,,Active,Server Room,IT
+ASSET-018,SN100018,Logitech MX Keys,Paul Adams,Active,Floor 3,IT
+ASSET-019,SN100019,Samsung SSD 1TB,Rachel Green,Active,Floor 5,HR
+ASSET-020,SN100020,Cisco IP Phone,Nancy Hill,Active,Floor 2,Finance
